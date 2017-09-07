@@ -1,3 +1,2 @@
 # UnrealEngine
-source code of UE
-test branch
+Some sample projects from the tutorial.
